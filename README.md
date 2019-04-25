@@ -1,4 +1,4 @@
-# Homonym Detector
+# NLP Case Study: Homonym Detector
 
 NLP project to test the difference between two homonyms.
 
