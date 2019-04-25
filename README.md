@@ -6,5 +6,5 @@ Original question posed on Hackerrank: (https://www.hackerrank.com/contests/octo
 
 We detect the correct meaning of a homonym in the context of a sentence, using the wikipedia entry for the each homonym to train our model.
 
-[apple.jpg]
+[!apple.jpg]
 
